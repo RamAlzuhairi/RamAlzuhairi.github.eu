@@ -1,0 +1,22 @@
+@charset "utf-8";
+  body{
+  background-color: #87CEFA;
+  font-family: verdana, sans-serif;
+  }
+  h1{
+  /*En kommentar*/
+   font-size: 35px;
+   font-weight: Bold;
+   color: Black;
+   margin: 0px;
+   font-family: verdana, sans-serif;
+   
+  }
+  h2{
+  font-size: 16px;
+   font-weight: bold;
+   color: #666;
+   margin: 0px;
+   margin-top: 4px;
+   font-family: verdana, sans-serif;
+  }
